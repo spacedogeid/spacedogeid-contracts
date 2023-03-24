@@ -1,0 +1,26 @@
+{
+  "name": "spacedogeid-contracts",
+  "version": "1.0.0",
+  "description": "Space Doge ID contracts project",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.7",
+    "web3": "^1.8.2"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@sebasgoldberg/hardhat-wsprovider": "^0.1.1",
+    "dotenv": "^16.0.0",
+    "hardhat-deploy": "^0.11.24",
+    "hardhat-deploy-ethers": "^0.3.0-beta.13"
+  }
+}
